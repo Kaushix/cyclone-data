@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "cyclone-data", "cyclone-data.pyproj", "{EA814B0B-66A7-40E8-8EAD-DE0BD3067DB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA814B0B-66A7-40E8-8EAD-DE0BD3067DB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA814B0B-66A7-40E8-8EAD-DE0BD3067DB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A81860B-6D76-47D0-90A7-76C342E31552}
+	EndGlobalSection
+EndGlobal
